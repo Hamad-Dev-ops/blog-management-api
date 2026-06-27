@@ -7,7 +7,7 @@ The project supports authentication, blog management, categories, image uploads,
 
 This project was developed as part of my MERN learning journey and further enhanced with additional improvements, project restructuring, and Docker containerization.
 
-Features
+**Features**
 Authentication
 JWT Authentication
 User Registration
@@ -32,34 +32,31 @@ Docker
 Docker Compose
 Tech Stack
 
-Backend
-
+**Backend**
 Node.js
 Express.js
 
-Database
-
+**Database**
 MongoDB
 Mongoose
 
-Authentication
-
+**Authentication**
 JWT
 
-Validation
+**Validation**
 
 Express Validator
 
-Storage
+**Storage**
 
 AWS S3
 
-DevOps
+**DevOps**
 
 Docker
 Docker Compose
 
-Project Structure
+**Project Structure**
 controllers/
 models/
 routes/
@@ -68,8 +65,8 @@ services/
 config/
 docs/
 
-Running Locally
-git clone https://github.com/Hamad-dev-ops/blog-management-api.git
+**Running Locally**
+git clone https://github.com/Hamad-Dev-ops/blog-management-api.git
 
 cd blog-management-api
 
